@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sdFF/43GJklSY0F7uAcTovOjFgiWXwlW/I8HtzW/RNE=",
+  "Source": "is_sistema",
+  "BasePath": "_content/is_sistema",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "is_sistema\\wwwroot",
+      "Source": "is_sistema",
+      "ContentRoot": "C:\\Users\\minda\\Desktop\\is_sistema\\wwwroot\\",
+      "BasePath": "_content/is_sistema",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\minda\\Desktop\\is_sistema\\wwwroot\\css\\style.css",
+      "SourceId": "is_sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minda\\Desktop\\is_sistema\\wwwroot\\",
+      "BasePath": "_content/is_sistema",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

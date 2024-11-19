@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = is_sistema
+build_property.RootNamespace = is_sistema
+build_property.ProjectDir = C:\Users\minda\Desktop\is_sistema\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\minda\Desktop\is_sistema
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/groups/addgroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cZ3JvdXBzXGFkZGdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/groups/addstudentgroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cZ3JvdXBzXGFkZHN0dWRlbnRncm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/groups/addsubjectgroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cZ3JvdXBzXGFkZHN1YmplY3Rncm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/groups/deletegroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cZ3JvdXBzXGRlbGV0ZWdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/groups/groupss.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cZ3JvdXBzXGdyb3Vwc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5caW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/professor/addprofessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5ccHJvZmVzc29yXGFkZHByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/professor/deleteprof.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5ccHJvZmVzc29yXGRlbGV0ZXByb2YuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/professor/professors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5ccHJvZmVzc29yXHByb2Zlc3NvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/students/addstudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3R1ZGVudHNcYWRkc3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/students/deletestudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3R1ZGVudHNcZGVsZXRlc3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/students/studentss.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3R1ZGVudHNcc3R1ZGVudHNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/subjects/addsubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3ViamVjdHNcYWRkc3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/subjects/addsubjectprofessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3ViamVjdHNcYWRkc3ViamVjdHByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/subjects/deletesubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3ViamVjdHNcZGVsZXRlc3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minda/Desktop/is_sistema/views/admin/subjects/subject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NcYWRtaW5cc3ViamVjdHNcc3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

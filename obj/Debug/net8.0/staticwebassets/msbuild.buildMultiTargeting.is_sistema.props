@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\is_sistema.props" />
+</Project>

@@ -1,0 +1,64 @@
+@model IEnumerable<IS_SISTEMA.models.Subjects>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+    <h1>
+        Viko
+    </h1>
+    
+    <nav class="navbaras">
+        <ul>
+            
+            <li><a href="/">Home</a></li>
+            <li><a href="/admin/subjects/subject">Subjects</a></li>
+            <li><a href="/admin/students/studentss">Students</a></li>
+            <li><a href="/admin/professor/professors">Professors</a></li>
+            <li><a href="/admin/groups/groupss">Groups</a></li>
+
+        </ul>
+    </nav>
+
+    <nav class="navbarr">
+        <ul>
+            <li><a href="/admin/subjects/addsubject">Add New Subject</a></li>
+            <li><a href="/admin/subjects/deletesubject">Delete Subject</a></li>
+            <li><a href="/admin/subjects/addsubjectprofessor">Add professor To Subject</a></li>
+            <li><a href="/admin/subjects/subject">Back</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h3>Add new professor to subject </h3>
+
+        <form method="POST" action="/api/assign-professor">
+            <div class="form-group">
+                <label for="Subjects_id">Subject ID:</label>
+                <input type="text" class="form-control" id="Subjects_id" name="Subjects_id" required />
+            </div>
+             <div class="form-group">
+                <label for="Users_id">Professor ID:</label>
+                <input type="text" class="form-control" id="Users_id" name="Users_id" required />
+            </div>
+            <h4></h4>
+            <div class="text-center"><button type="submit" class="btn btn-primary">Add</button></div>
+        </form>
+
+    </div>
+  </div>
+</div> 
+        
+    </main>
+</body>
+</html>
